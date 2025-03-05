@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am a passionate front-end developer with a diver
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amara-yuvasri-60a97b260) [![Email](https://img.shields.io/badge/Email-Send%20Mail-red)](mailto:yuvasriamara@gmail.com )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/amara-yuvasri-60a97b260) [![Email](https://img.shields.io/badge/Email-Send%20Mail-red)](mailto:yuvasriamara@gmail.com )
 
 ---
 
