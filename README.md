@@ -5,15 +5,13 @@
 ## 🚀 Front-End Developer
 
 Welcome to my GitHub profile! I am a passionate front-end developer with a diverse skill set, including HTML, CSS, Bootstrap, JavaScript, Flutter, React, and Node.js.
-
-![GitHub followers](https://img.shields.io/github/followers/Yuvasriamara?label=Followers&style=social) ![GitHub stars](https://img.shields.io/github/stars/Yuvasriamara?label=Stars&style=social)
-
 ---
 
 ## 🎓 Education
 
 - **B.Tech in Electronics & Communication Engineering**
   - Amrita Sai Institute of Science and Technology
+  - CGPA - 7.7
 
 ---
 
@@ -31,7 +29,7 @@ Welcome to my GitHub profile! I am a passionate front-end developer with a diver
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chaitanya-kumar-3239b823b/) [![Email](https://img.shields.io/badge/Email-Send%20Mail-red)](mailto:yuvasriamara@gmail.com )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amara-yuvasri-60a97b260) [![Email](https://img.shields.io/badge/Email-Send%20Mail-red)](mailto:yuvasriamara@gmail.com )
 
 ---
 
@@ -85,16 +83,6 @@ Welcome to my GitHub profile! I am a passionate front-end developer with a diver
 </div>
 
 ---
-
-
-## 📚 Blog Posts
-
-- **[How I Built My First React App](#)**: A journey through building my first React application from scratch.
-- **[Tips and Tricks for Effective Git Management](#)**: Best practices for managing Git branches, commits, and pull requests.
-- **[Exploring the World of Flutter](#)**: My experiences and insights on cross-platform mobile development with Flutter.
-
----
-
 ## ✨ Let's Build Something Amazing Together!
 
 Feel free to explore my repositories, check out my projects, and connect with me on LinkedIn! I'm always open to collaborations and new opportunities.
